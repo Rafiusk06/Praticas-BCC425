@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|06ffa717-753b-48d8-8aff-a4ff5e17743c
+C:\Users\Aluno\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|dd207b2c-a6af-478a-b630-82717af00904
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e78c0d7f-b453-4615-a2ce-e7d14b460b51
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|1edf0a8a-8d2e-4653-bdef-660ea83b51e0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ab49a158-28d3-449c-8103-43b1fe0bfc3d
+C:\Users\Aluno\Documents\PSoC Creator\Pratica 01 - Raphael e Gabriel\Pratica 01 - Gabriel e Raphael.cydsn\Pratica 01 - Gabriel e Raphael.cyprj|9ed00e84-ea28-4682-b444-f2cff94148a4
